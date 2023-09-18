@@ -1,19 +1,17 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "title": "Oct 2021 - Sep 2023",
+            "cardTitle": "École CFA INGETIS Paris",
+            "cardSubtitle":"Master Devops Expert En Systéme Informatique",
             "icon" : {
                 "src": "images/education/lorem-ipsum.png"
             }
         },
         {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "title": "Oct 2020 - Sep 2021",
+            "cardTitle": "Bachelor système informatique",
+            "cardSubtitle":"ISGA, Casablanca"
         }
     ]
 }

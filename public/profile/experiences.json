@@ -1,33 +1,33 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
+            "title": "Mobile Developer",
+            "subtitle": "LALAchante Ltd",
+            "workType": "Internship",
             "workDescription": [
                 "Integrated **2** new product.",
                 "Worked on adding **def** to **bcd**. Improved speed by 50%."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "06/2023 – Present"
         },
         {
             "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "subtitle": "AC2F Ltd",
             "workType": "Internship",
             "workDescription": [
                 "Worked on abc."
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "10/2021 – 10/2022"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "App Developer(PFE)",
+            "subtitle": "Groupe OCP Ltd",
+            "workType": "Internship",
             "workDescription": [
                 "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
                 "Done bcd work."
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "02/2020 – 06/2020"
         }
     ]
 }
