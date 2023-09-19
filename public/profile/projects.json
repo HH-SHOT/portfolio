@@ -1,7 +1,7 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/portfolio-poster.png",
+            "image" : "images/projects/Portfolio.png",
             "title": "Dev Portfolio",
             "bodyText": "- Site Web de portefeuille de développeurs réalisé avec React\n - Entièrement personnalisable et dynamique, modifiez facilement les données et les images.\n - Prise en charge du mode sombre",
             "links": [
@@ -22,7 +22,7 @@
             ]
         },
         {
-            "image" : "images/projects/caaring-poster.png",
+            "image" : "images/projects/Twitter.png",
             "title": "Check Twitter Username Availability",
             "bodyText": "- Twitter Username **Django** Notre mission est de fournir une expérience transparente aux utilisateurs cherchant à revendiquer\n le nom d'utilisateur de leur choix sur la plateforme Twitter.",
             "links": [
@@ -44,7 +44,7 @@
             ]
         },
         {
-            "image" : "images/projects/quiet-hours-poster.jpg",
+            "image" : "images/projects/Bijouterie.jpg",
             "title": "Bijouterie(full stack e-commerce website)",
             "bodyText": "Développement d'une application de commerce électronique complète utilisant\n des technologies de pointe telles que Next.js, React.js. \n Front-end : Next.js pour une interface utilisateur hautement performante et interactive\n Back-end : PostgreSQL comme système de base de données, avec Prisma",
             "links": [
