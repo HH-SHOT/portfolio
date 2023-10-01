@@ -1,33 +1,39 @@
 {
     "experiences": [
         {
-            "title": "Mobile Developer",
-            "subtitle": "LALAchante Ltd",
-            "workType": "Internship",
+            "title": "Developpeur Front-End",
+            "subtitle": "LALAchante",
+            "workType": "Stage",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Description détaillée du travail :",
+                "- Concevoir une interface conviviale pour les clients et le studio.",
+                "- Créer des écrans pour la planification des rendez-vous, la gestion des fichiers audio, et la communication.",
+                "- Développer un calendrier pour la prise de rendez-vous en ligne.",
+                "- Configurer des notifications pour informer les utilisateurs des activités liées aux rendez-vous et aux fichiers partagés.",
+                "- Mettre en place un espace de stockage sécurisé pour les fichiers audio.",
+                "- Permettre aux utilisateurs de télécharger et de gérer leurs enregistrements musicaux.",
+                "- Prendre en charge différents formats audio courants (MP3, WAV, etc.).",
+                "- Mettre en place un système d'authentification sécurisé pour les utilisateurs.",
+
+                "Environnement technique utilisé : React Native, Firebase, Tailwind CSS, Git."
             ],
             "dateText": "06/2023 – Present"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "AC2F Ltd",
-            "workType": "Internship",
+            "title": "Dévloppeur Devops",
+            "subtitle": "AC2F",
+            "workType": "Stage",
             "workDescription": [
-                "Worked on abc."
+                "-Créez la structure de la base de données pour stocker les informations des clients, des sites web, des besoins et des autres données pertinentes, besoins et des autres données pertinentes.",
+                "-Créez un système de suivi des projets pour suivre l'état d'avancement de la réalisation des sites web en fonction des besoins des clients.",
+                "-Déployez l'application web et les APIs sur un serveur ou une plateforme d'hébergement.",
+                "-Effectuez des tests unitaires, des tests d'intégration et des tests de sécurité pour garantir que l'application fonctionne correctement.",
+                "-Améliorez les performances de l'application en optimisant les requêtes de base de données, en mettant en cache les données.", 
+                "-Rédigez une documentation complète pour les développeurs et les administrateurs système sur la configuration, l'utilisation et la maintenance de l'application.",
+                "Environnement technique : Javascript, Html5, CSS, WordPress, Git, PHP, LARAVEL"
+
             ],
             "dateText": "10/2021 – 10/2022"
-        },
-        {
-            "title": "App Developer(PFE)",
-            "subtitle": "Groupe OCP Ltd",
-            "workType": "Internship",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
-            ],
-            "dateText": "02/2020 – 06/2020"
         }
     ]
 }
