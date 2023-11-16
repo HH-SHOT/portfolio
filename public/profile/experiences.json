@@ -1,39 +1,40 @@
 {
     "experiences": [
         {
-            "title": "Developpeur Front-End",
-            "subtitle": "LALAchante",
+            "title": "Développeur Full-Stack",
+            "subtitle": "Nexity",
             "workType": "Stage",
             "workDescription": [
                 "Description détaillée du travail :",
-                "- Concevoir une interface conviviale pour les clients et le studio.",
-                "- Créer des écrans pour la planification des rendez-vous, la gestion des fichiers audio, et la communication.",
-                "- Développer un calendrier pour la prise de rendez-vous en ligne.",
-                "- Configurer des notifications pour informer les utilisateurs des activités liées aux rendez-vous et aux fichiers partagés.",
-                "- Mettre en place un espace de stockage sécurisé pour les fichiers audio.",
-                "- Permettre aux utilisateurs de télécharger et de gérer leurs enregistrements musicaux.",
-                "- Prendre en charge différents formats audio courants (MP3, WAV, etc.).",
-                "- Mettre en place un système d'authentification sécurisé pour les utilisateurs.",
+                "Concevoir et développer de nouveaux projets Web chez Nexity, introduisant des architectures novatrices qui ont renforcé la robustesse et la flexibilité des applications.",
+                "Assurer la maintenance du code existant et la gestion efficace de la base de données, contribuant à une amélioration constante des performances des applications.",
+                "Développer des API REST (JSON) pour favoriser une communication fluide entre différentes plateformes, optimisant l'expérience utilisateur des applications Web et mobiles.",
+                "Implémenter des tests unitaires PHPUnit pour assurer la qualité du code, garantissant la stabilité et la fiabilité des applications développées.",
+                "Travailler selon la méthodologie Agile Scrum, participant aux réunions quotidiennes de suivi, utilisant la technique du Planning Poker pour des estimations précises, et gérant efficacement le backlog des sprints pour une livraison ponctuelle des fonctionnalités.",
+                "Concevoir et développer de nouveaux projets Web chez Nexity, introduisant des architectures novatrices qui ont renforcé la robustesse et la flexibilité des applications. ",
+                "Assurer la maintenance du code existant et la gestion efficace de la base de données, contribuant à une amélioration constante des performances des applications. ",
+                "Développer des API REST (JSON) pour favoriser une communication fluide entre différentes plateformes, optimisant l'expérience utilisateur des applications Web et mobiles." ,
+                "Implémenter des tests unitaires PHPUnit pour assurer la qualité du code, garantissant la stabilité et la fiabilité des applications développées. ",
+                "Travailler selon la méthodologie Agile Scrum, participant aux réunions quotidiennes de suivi, utilisant la technique du Planning Poker pour des estimations précises, et gérant efficacement le backlog des sprints pour une livraison ponctuelle des fonctionnalités.",
 
-                "Environnement technique utilisé : React Native, Firebase, Tailwind CSS, Git."
+                "Environnement technique utilisé : PHP · Unit Testing · JSON · AngularJS · DevOps · Web Development · JavaScript · Java- Firebase, Tailwind CSS, Git."
             ],
-            "dateText": "06/2023 – Present"
+            "dateText": "10/2021 – Present"
         },
         {
-            "title": "Dévloppeur Devops",
-            "subtitle": "AC2F",
+            "title": "Dévloppeur",
+            "subtitle": "OCP Group",
             "workType": "Stage",
             "workDescription": [
-                "-Créez la structure de la base de données pour stocker les informations des clients, des sites web, des besoins et des autres données pertinentes, besoins et des autres données pertinentes.",
-                "-Créez un système de suivi des projets pour suivre l'état d'avancement de la réalisation des sites web en fonction des besoins des clients.",
-                "-Déployez l'application web et les APIs sur un serveur ou une plateforme d'hébergement.",
-                "-Effectuez des tests unitaires, des tests d'intégration et des tests de sécurité pour garantir que l'application fonctionne correctement.",
-                "-Améliorez les performances de l'application en optimisant les requêtes de base de données, en mettant en cache les données.", 
-                "-Rédigez une documentation complète pour les développeurs et les administrateurs système sur la configuration, l'utilisation et la maintenance de l'application.",
-                "Environnement technique : Javascript, Html5, CSS, WordPress, Git, PHP, LARAVEL"
+                "Développé une application de bureau modulaire en C# avec intégration SQL Server, améliorant l'accessibilité des données pour les utilisateurs.",
+                "Réduction des erreurs de code de 15% et renforcement de la sécurité des applications grâce à des tests rigoureux.",
+                "Augmentation de 30% de l'efficacité grâce à la mise en place d'un système de suivi de projets en temps réel.",
+                "Diminution de 20% des erreurs techniques en introduisant Laravel dans l'environnement technique.",
+                "Assure une documentation complète des API's, garantissant une excellente compréhension et utilisation des systèmes développés.",
+                "Environnement technique : Javascript, Html5, CSS, WordPress, Git, AngularJS · .NET Framework · C# · C (Programming Language) · SQL · JavaScript"
 
             ],
-            "dateText": "10/2021 – 10/2022"
+            "dateText": "01/2021 – 06/2021"
         }
     ]
 }
